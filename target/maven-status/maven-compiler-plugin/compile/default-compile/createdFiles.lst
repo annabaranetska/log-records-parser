@@ -1,0 +1,10 @@
+com\example\logparser\repository\ApplicationServerLogRecordRepo.class
+com\example\logparser\repository\LogRecordRepo.class
+com\example\logparser\model\LogRecord.class
+com\example\logparser\service\LogParser.class
+com\example\logparser\model\ApplicationServerLogRecord.class
+com\example\logparser\model\Record.class
+com\example\logparser\test\ApplicationServerLogRecordRepoTest.class
+com\example\logparser\test\LogRecordRepoTest.class
+com\example\logparser\service\DataInitializer.class
+com\example\logparser\LogParserApplication.class
